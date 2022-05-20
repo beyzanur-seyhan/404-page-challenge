@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 PAGE CHALLENGE</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://beyzanur-seyhan.github.io/404-page-challenge/">
       Demo
     </a>
     <span> | </span>
@@ -30,20 +30,21 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
-## Overview 
+## Overview
 
-<img src="views/desktop.png" width= 79%>
-<img src="views/mobile.png" width= 20%>
+### ▶️ Desktop View
+![Desktop View](views/desktop.png)
+
+### ▶️ Mobile View
+<img src="views/mobile.png">
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+- [Live Demo ▶️](https://beyzanur-seyhan.github.io/404-page-challenge/)
+- [Solution ▶️](https://devchallenges.io/solutions/EewEnNJqo0sEoicv99rN)
 
-- Where can I see your demo? ▶️ https://beyzanur-seyhan.github.io/404-page-challenge/
-- What have you learned/improved? I improved SASS/SCSS technology.
 
 ### Built With
 
