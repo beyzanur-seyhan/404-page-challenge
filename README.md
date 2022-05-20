@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://beyzanur-seyhan.github.io/404-page-challenge/">
+    <a href="https://beyzanur-seyhan.github.io/404-page-challenge/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/EewEnNJqo0sEoicv99rN">
+    <a href="https://devchallenges.io/solutions/EewEnNJqo0sEoicv99rN" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
