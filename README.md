@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [beyzanurseyhan.com](https://beyzanurseyhan.com)
-- GitHub [@your-username](https://github.com/beyzanur-seyhan)
+- GitHub [@beyzanur-seyhan](https://github.com/beyzanur-seyhan)
 - Linkedin [@beyzanurseyhan](https://linkedin.com/beyzanurseyhan)
 - E-Mail [info@beyzanurseyhan.com](mailto:info@beyzanurseyhan.com)
