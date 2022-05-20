@@ -38,9 +38,11 @@
 ### ▶️ Desktop View
 ![Desktop View](views/desktop.png)
 
-### ▶️ Mobile View
-<img src="views/mobile.png">
+<center>
 
+### ▶️ Mobile View
+<img src="views/mobile.png" width="40%">
+</center>
 
 - [Live Demo ▶️](https://beyzanur-seyhan.github.io/404-page-challenge/)
 - [Solution ▶️](https://devchallenges.io/solutions/EewEnNJqo0sEoicv99rN)
