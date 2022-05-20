@@ -12,6 +12,10 @@
       Demo
     </a>
     <span> | </span>
+    <a href="https://github.com/beyzanur-seyhan/404-page-challenge/blob/main/LICENSE" target="_blank">
+      License
+    </a>
+    <span> | </span>
     <a href="https://devchallenges.io/solutions/EewEnNJqo0sEoicv99rN" target="_blank">
       Solution
     </a>
